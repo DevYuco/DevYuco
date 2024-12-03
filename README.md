@@ -28,7 +28,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,css,html,js,mysql,git,github,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,css,html,js,mysql,git,github,eclipse,vscode,bash,linux&perline=12" />
   </a>
 </p>
 <br>
