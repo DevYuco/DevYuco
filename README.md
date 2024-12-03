@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋  soy Andres / DevYuco ✨ </h1> 
 
 <p align="left">
-
-<a href="www.linkedin.com/in/andresmatabuena" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:andresmatabuena15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
+  <a href="www.linkedin.com/in/andresmatabuena" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href = "mailto:andresmatabuena15@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+</p>
 <br>
+
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
+<!--Intro -->
 
 <p align="left">
 ⚙ Técnico Superior en Desarrollo de Aplicaciones WEB
@@ -20,43 +20,42 @@
 Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo IT, y actualmente compagino mi trabajo con mis estudios para alcanzar mis metas.
 
 📫 Contacto: **andresmatabuena15@gmail.com**
-<!--Intro end-->
+
   </p>
 <br>
-
+<!--tecnologias-->
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,spring,css,bootstrap,html,angular,js,ts,mysql,git,github,eclipse,vscode,figma,arduino,bash,ubuntu,linux&perline=12" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,spring,css,bootstrap,html,angular,js,ts,mysql,git,github,eclipse,vscode,figma,arduino,bash,ubuntu,linux&perline=12" />
   </a>
 </p>
 <br>
-<!-------------------------->
+<!------------Proyectos-------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+  <h2 >Algunos proyectos👨🏻‍💻</h2>
+  
+  <table align="left" >
+    <tr border="none">
+      <td width="25%" align="center">
+        <p align="center">
+         <a href="url" title="Go to Source">
+            <img align="center" width=100% src="link"   alt="VIDEO" /></a>
+          </p>
+        <p align="center">
+        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />          </a>
+        </p>       
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-    <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-  </td>
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
 <br><br><br>
-<br><br>
+<br><br><br>
+<br><br><br>
 
-
+<!------------Stats-------------->
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
