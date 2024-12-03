@@ -47,7 +47,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
             <img align="center" width=100% src="link"   alt="VIDEO" /></a>
           </p>
         <p align="center">
-        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />          </a>
+        <a href="https://github.com/DevYuco/BlogAngular" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /> </a>
         </p>       
       </td>
     </tr>
