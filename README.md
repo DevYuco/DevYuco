@@ -28,7 +28,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,css,html,js,mysql,git,github,eclipse,vscode,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,css,html,js,mysql,git,github,eclipse,vscode,bash,linux&perline=12" />
   </a>
 </p>
 <br>
@@ -44,8 +44,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
   </td>
 </tr>
