@@ -55,12 +55,10 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
 </div>
 
 
-
-
-
-
-
-<br> 
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 <!------------Stats-------------->
 
 
