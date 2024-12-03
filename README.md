@@ -11,6 +11,7 @@
 
 <p align="left">
 ⚙ Técnico Superior en Desarrollo de Aplicaciones WEB
+  
 ⚙ Técnico Superior en Automatización y Robótica
 
 📚 Apasionado de la Tecnología y la Programación
