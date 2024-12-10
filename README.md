@@ -6,11 +6,13 @@
   <a href="https://www.linkedin.com/in/andresmatabuena/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DevYuco"/>
   </a>
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresmatabuena15@gmail.com)
+  <a href="mailto:andresmatabuena15@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@devYuco" />
+  </a>
 </p>
 <br>
 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresmatabuena15@gmail.com)
 <h2>Sobre mi 😃</h2>
 <!--Intro -->
 
