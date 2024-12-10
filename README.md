@@ -45,7 +45,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
     <tr border="none">
       <td width="25%" align="center">
         <p align="center">
-         <a href="https://blogangular.matabuena.com/" title="Go to Source">
+         <a target="_blank" href="https://blogangular.matabuena.com/" title="Go to Source">
             <img align="center" width=100% src="https://drive.google.com/thumbnail?id=1WVmYP57QBN4GZBsANaUKhsf8z-jemowq"   alt="VIDEO" /></a>
           </p>
         <p align="center">
