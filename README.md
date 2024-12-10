@@ -11,8 +11,6 @@
   </a>
 </p>
 <br>
-
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresmatabuena15@gmail.com)
 <h2>Sobre mi 😃</h2>
 <!--Intro -->
 
