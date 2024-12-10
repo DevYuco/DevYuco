@@ -45,7 +45,6 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
     <tr border="none">
       <td width="25%" align="center">
         <p align="center">
-          <h3>Blog con Angular18</h3>
          <a href="url" title="Go to Source">
             <img align="center" width=100% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjodC7EBVIi0eZQpHT88ANt2_9Kw9fv_dfbA&s"   alt="VIDEO" /></a>
           </p>
