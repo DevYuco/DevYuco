@@ -3,8 +3,12 @@
 <h1 align="center">Hola 👋  soy Andres / DevYuco ✨ </h1> 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/andresmatabuena/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DevYuco"/></a>
-  <a href = "mailto:andresmatabuena15@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@devYuco"  /></a>
+  <a href="https://www.linkedin.com/in/andresmatabuena/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DevYuco"/>
+  </a>
+  <a href="mailto:andresmatabuena15@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@devYuco"/>
+  </a>
 </p>
 <br>
 
