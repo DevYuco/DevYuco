@@ -30,7 +30,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
 
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,java,spring,css,bootstrap,html,angular,js,ts,mysql,git,github,eclipse,vscode,figma,arduino,bash,ubuntu,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,spring,css,bootstrap,html,angular,js,ts,mysql,git,github,eclipse,vscode,figma,arduino,bash,ubuntu,linux&perline=12" />
   </a>
 </p>
 <br>
@@ -64,27 +64,23 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
+
 <p align="center">
   <!--- stats (start) -->
 <table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DevYuco&theme=dark&show_icons=true&count_private=true" />
-  <br>
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DevYuco&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
+  <tr border="none">
+    <td width="60%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DevYuco&theme=dark&show_icons=true&count_private=true" />
+      <br>
+    </td>
+    <td width="40%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DevYuco&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
 </table>
 <!--- stats (end) -->
 
