@@ -49,7 +49,6 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
         <a href="https://github.com/DevYuco/BlogAngular" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@devyuco" /> </a>
         </p>       
       </td>
-      
     </tr>
   </table>
 </div>
