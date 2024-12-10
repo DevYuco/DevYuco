@@ -46,7 +46,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
       <td width="25%" align="center">
         <p align="center">
          <a href="url" title="Go to Source">
-            <img align="center" width=100% src="https://drive.google.com/file/d/1WVmYP57QBN4GZBsANaUKhsf8z-jemowq/view?usp=sharing"   alt="VIDEO" /></a>
+            <img align="center" width=100% src="https://drive.google.com/uc?id=1WVmYP57QBN4GZBsANaUKhsf8z-jemowq"   alt="VIDEO" /></a>
           </p>
         <p align="center">
         <a href="https://github.com/DevYuco/BlogAngular" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@devyuco" /> </a>
