@@ -36,7 +36,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
 <br>
 <!------------Proyectos-------------->
 <div id="proyectos">
-  <h2 >Algunos proyectos👨🏻‍💻</h2>
+  <h2>Algunos proyectos👨🏻‍💻</h2>
   
   <table align="left" >
     <tr border="none">
@@ -49,6 +49,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
         <a href="https://github.com/DevYuco/BlogAngular" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@devyuco" /> </a>
         </p>       
       </td>
+      
     </tr>
   </table>
 </div>
