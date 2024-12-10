@@ -46,7 +46,7 @@ Mi carrera siempre ha estado marcada por una constante evolución hacia el mundo
             <img align="center" width=100% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjodC7EBVIi0eZQpHT88ANt2_9Kw9fv_dfbA&s"   alt="VIDEO" /></a>
           </p>
         <p align="center">
-        <a href="https://github.com/DevYuco/BlogAngular" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /> </a>
+        <a href="https://github.com/DevYuco/BlogAngular" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@devyuco" /> </a>
         </p>       
       </td>
     </tr>
